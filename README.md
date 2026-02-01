@@ -1,0 +1,2 @@
+# healthx-rag-chatbot
+PDFドキュメントを対象に、LangChainとChromaを用いて会話履歴を考慮したRAG型QAチャットボット
